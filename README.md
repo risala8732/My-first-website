@@ -64,11 +64,11 @@
     <div class="container">
         <h1>Welcome to My Page!</h1>
         <p>
-            Hello! I enjoy spending my free time reading fantasy novels and exploring new places. There's nothing quite like getting lost in a good story or discovering a hidden gem in my own city. It's a great way to relax and recharge.
+            Hello! I enjoy spending my free time reading fantasy novels and baking cake
         </p>
-        <img src="https://placehold.co/800x400/B2DFDB/000000?text=My%20Favorite%20Hobby" alt="A placeholder image representing my hobby">
+        <img src="https://images.unsplash.com/ alt="Night sky">
         <br>
-        <a href="https://www.google.com" target="_blank">Visit a Great Website</a>
+        <a href="https://github.com/risala8732"  target="_blank">Visit a my githubprofile</a>
     </div>
 </body>
 </html>
